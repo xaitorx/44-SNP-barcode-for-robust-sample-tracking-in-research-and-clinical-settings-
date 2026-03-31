@@ -1,0 +1,16 @@
+"Marker" "Pros" "Cons"
+"RFLPs" "Both coding and non-coding regions of genome
+Time consuming
+Low resolution" "No PCR required
+Requires large, high-quality DNA "
+"STRs" "Abundant
+Highly polymorphic
+Suitable for degraded samples" "Susceptible to PCR artifacts
+VNTRs prone to degradation
+Problematic NGS-based genotyping
+Primarily in non-coding regions"
+"SNPs" "Abundant
+Both coding and non-coding regions
+Suitable for degraded samples
+Cross-platform supported" "Lower discrimination power per locus compared to STRs  
+Requires bioinformatic work"
